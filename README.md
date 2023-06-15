@@ -6,15 +6,15 @@ What is Boto3 ?
 Boto3 is a Python library for interacting with AWS services. It allows developers to write Python code to automate and manage various AWS resources and services.
 
 ## Prerequisites:
-1. Install AWS CLI
+1. Install AWS CLI 
    ```
     https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
    ```
 2. Configure AWS CREDENTIALS
-   RUN COMMAND ``` aws configure ```
+RUN COMMAND ``` aws configure ```
 
 3.  INSTALL BOTO3 LIBRARY
-   ``` pip install boto3```
+``` pip install boto3```
  
-5. RUN THE PYTHON SCRIPTS\n
-   ```python <script_name>.py```
+5. RUN THE PYTHON SCRIPTS
+```python <script_name>.py```
