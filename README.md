@@ -3,7 +3,6 @@
 In this repository, you will find a collection of powerful automation scripts developed using Boto3, the AWS SDK for Python. These scripts are designed to automate various tasks and manage AWS resources efficiently.
 
 What is Boto3?
-
 Boto3 is a Python library for interacting with AWS services. It allows developers to write Python code to automate and manage various AWS resources and services.
 
 ## Prerequisites:
