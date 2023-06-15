@@ -16,5 +16,5 @@ Boto3 is a Python library for interacting with AWS services. It allows developer
 3.  INSTALL BOTO3 LIBRARY
    ``` pip install boto3```
  
-5. RUN THE PYTHON SCRIPTS
-   python <script_name>.py
+5. RUN THE PYTHON SCRIPTS\n
+   ```python <script_name>.py```
