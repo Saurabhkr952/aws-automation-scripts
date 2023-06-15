@@ -16,3 +16,14 @@ Before using these automation scripts, ensure you have the following prerequisit
  
 5. Run the Python Scripts: To execute a specific automation script, run ```python <script_name>.py``` in your command line, replacing <script_name> with the actual name of the Python script file. Make sure you are in the correct directory where the script is located.
 
+
+## Available Scripts:
+Here's a list of the automation scripts included in this repository:
+
+cleanup-snapshot.py: Automate the cleanup of old snapshots.
+data-backup-ec2.py: Automate the creation of snapshots for EC2 volumes.
+ec2-add-tags.py: Add environment tags to EC2 instances for better organization.
+ec2-status-checks.py: Perform health checks and retrieve status information for EC2 instances.
+eks-status-check.py: Obtain information about your EKS cluster.
+restore-volume.py: Automate the restoration of an EC2 volume from backup.
+
