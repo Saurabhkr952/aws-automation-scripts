@@ -20,10 +20,10 @@ Before using these automation scripts, ensure you have the following prerequisit
 ## Available Scripts:
 Here's a list of the automation scripts included in this repository:
 
-1. cleanup-snapshot.py: Automate the cleanup of old snapshots.
-2. data-backup-ec2.py: Automate the creation of snapshots for EC2 volumes.
-3. ec2-add-tags.py: Add environment tags to EC2 instances for better organization.
-4. ec2-status-checks.py: Perform health checks and retrieve status information for EC2 instances.
-5. eks-status-check.py: Obtain information about your EKS cluster.
-6. restore-volume.py: Automate the restoration of an EC2 volume from backup.
+1. ```cleanup-snapshot.py```: Automate the cleanup of old snapshots.
+2. ```data-backup-ec2.py```: Automate the creation of snapshots for EC2 volumes.
+3. ```ec2-add-tags.py```: Add environment tags to EC2 instances for better organization.
+4. ```ec2-status-checks.py```: Perform health checks and retrieve status information for EC2 instances.
+5. ```eks-status-check.py```: Obtain information about your EKS cluster.
+6. ```restore-volume.py```: Automate the restoration of an EC2 volume from backup.
 
