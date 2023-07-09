@@ -1,4 +1,4 @@
-# python-automation-scripts
+# aws-automation-scripts
 
 In this repository, you will find a collection of powerful automation scripts developed using Boto3, the AWS SDK for Python. These scripts are designed to automate various tasks and manage AWS resources efficiently.
 
